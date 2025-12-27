@@ -1,1 +1,1 @@
-# Hello, friend!
+# This is my personal website. Enjoy!
